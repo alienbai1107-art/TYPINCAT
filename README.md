@@ -12,6 +12,8 @@
 <p align="center">
   <a href="https://github.com/alienbai1107-art/TYPINCAT/releases/latest"><b>⬇ 下载绿色版 Download (portable)</b></a>
   &nbsp;·&nbsp;
+  <a href="https://github.com/alienbai1107-art/TYPINCAT/releases/latest"><b>Mac（测试版 beta）</b></a>
+  &nbsp;·&nbsp;
   <a href="https://apps.microsoft.com/detail/9PG0GM6TGV7S">Microsoft Store</a>
   &nbsp;·&nbsp;
   <a href="https://ah-studio.pages.dev/typincat/">隐私政策 Privacy</a>
@@ -24,6 +26,9 @@
 一只陪你打字的桌面小猫。你敲键盘，它就用小爪子跟着敲同一个键；你动鼠标，它就去扒拉鼠标。打字太快它会着急甩尾巴，一直不理它就会犯困睡着。摸摸它的头，它会开心到开花。偶尔，它还会在胶带上给你留一句话。
 
 - **捏一只你自己的猫**：脸型、身材、尾巴、毛色、异瞳、花纹，还能直接在猫身上画画
+- **打扮它**：翅膀、光环、蝴蝶结、小帽子、铃铛项圈、眼镜；键盘、纸箱、胶带的颜色也能自己调
+- **逗猫模式**：全屏跑出老鼠、小鱼、小蜘蛛，给家里的真猫看
+- **换电脑也带着它**：一键导出成一个文件，在别的电脑上导入
 - **一肚子小心思**：偷瞄、坏笑、摸鱼、受惊炸毛
 - **小猫的来信**：偶尔自己打几句笨笨的话（中 / 日 / 英 / 韩）
 - **接入 Claude Code**：AI 干活时它敲键盘，需要你确认时歪头冒问号
@@ -34,10 +39,13 @@
 ![](images/zh_3.png)
 ![](images/zh_4.png)
 ![](images/zh_5.png)
+![](images/zh_6.png)
+![](images/zh_7.png)
+![](images/zh_8.png)
 
-### 下载和使用（绿色版）
+### 下载和使用（Windows 绿色版）
 
-1. 到 [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest) 下载 `TYPINCAT_portable_1.0.0.zip`。
+1. 到 [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest) 下载 `TYPINCAT_portable_1.1.0.zip`。
 2. 解压整个文件夹，双击 `TypingWithLove.exe`。不用安装，也不需要授权码。
 3. 右键小猫：调整小猫 / 隐藏小猫 / 退出。
 
@@ -45,25 +53,62 @@
 
 系统要求：Windows 10 1809 或更高，64 位。
 
+### 下载和使用（Mac 测试版）
+
+> Mac 版是测试版：还没有在真机上充分测试过，遇到问题欢迎在 [Issues](https://github.com/alienbai1107-art/TYPINCAT/issues) 反馈。
+
+1. 到 [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest) 下载 `TYPINCAT_mac_1.1.0.zip`，解压后把 `TypingWithLove.app` 拖进「应用程序」文件夹。
+2. 第一次打开：在 app 上**右键 →「打开」→ 再点「打开」**（Mac 版没有苹果签名，直接双击会被拦下）。
+   如果提示「已损坏，无法打开」，打开「终端」执行下面这行，再右键打开：
+   ```
+   xattr -cr /Applications/TypingWithLove.app
+   ```
+3. 小猫要读键盘和鼠标才能跟着你动：到「系统设置 → 隐私与安全性 → 输入监控」里打开 TypingWithLove，然后退出小猫再重新打开。
+
+系统要求：macOS 12 或更高。只有 Intel 版本，Apple 芯片的 Mac 会通过 Rosetta 运行（第一次如果提示安装 Rosetta，点「安装」即可）。
+
+### 请作者喝杯奶茶
+
+敲敲猫是免费的。如果它陪你度过了愉快的时光，可以用微信扫一扫，请作者喝杯奶茶 ☕ 谢谢支持！
+
+<img src="images/support_wechat.png" width="220" alt="微信赞赏码">
+
 ## English
 
 A little desktop cat that types along with you. Type, and it taps the same keys with its paws; move the mouse, and it bats at it. Type too fast and it lashes its tail; leave it alone and it dozes off. Pet its head and it blooms with joy. Now and then it even leaves you a little note on its tape.
 
 - **Make your own cat**: face, build, tail, coat, odd eyes, patterns, and paint right on the cat
+- **Dress it up**: wings, a halo, a bow, a top hat, a bell collar, glasses; recolour the keyboard, box and tape
+- **Mouse play**: mice, fish or little spiders run across the whole screen for your real cat to watch
+- **Take it along**: export your cat to one file and import it on another computer
 - **Full of little moods**: side-eyes, smug grins, slacking off, puffing up when startled
 - **Notes from your cat**: it types silly little messages by itself (English / Chinese / Japanese / Korean)
 - **Works with Claude Code**: it types while the AI works and tilts its head with a "?" when it needs you
 - **Privacy first**: keystrokes are used on your PC only to animate the cat. Nothing is stored, and the app never goes online.
 
-### Download (portable)
+### Download (Windows, portable)
 
-1. Get `TYPINCAT_portable_1.0.0.zip` from [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest).
+1. Get `TYPINCAT_portable_1.1.0.zip` from [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest).
 2. Unzip the whole folder and run `TypingWithLove.exe`. No install, no license key.
 3. Right-click the cat for Edit cat / Hide cat / Quit.
 
 If Windows SmartScreen appears on first launch, click "More info" → "Run anyway" (the portable build is not code-signed). For automatic updates, get it from the [Microsoft Store](https://apps.microsoft.com/detail/9PG0GM6TGV7S).
 
 Requires Windows 10 1809 or later, 64-bit.
+
+### Download (Mac, beta)
+
+> The Mac version is a beta: it has not been fully tested on real Macs yet. Please report problems in [Issues](https://github.com/alienbai1107-art/TYPINCAT/issues).
+
+1. Get `TYPINCAT_mac_1.1.0.zip` from [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest), unzip it and drag `TypingWithLove.app` into Applications.
+2. First launch: **right-click the app → Open → Open** (it is not signed by Apple, so a double-click is blocked).
+   If macOS says the app "is damaged and can't be opened", run this in Terminal, then right-click → Open again:
+   ```
+   xattr -cr /Applications/TypingWithLove.app
+   ```
+3. The cat needs to see your keyboard and mouse: allow TypingWithLove in System Settings → Privacy & Security → Input Monitoring, then quit and reopen the cat.
+
+Requires macOS 12 or later. Intel build only; Apple silicon Macs run it through Rosetta (install Rosetta if asked on first launch).
 
 ---
 
