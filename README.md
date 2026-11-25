@@ -45,7 +45,7 @@
 
 ### 下载和使用（Windows 绿色版）
 
-1. 到 [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest) 下载 `TYPINCAT_portable_1.1.0.zip`。
+1. 到 [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest) 下载 `TYPINCAT_portable_1.1.1.zip`。
 2. 解压整个文件夹，双击 `TypingWithLove.exe`。不用安装，也不需要授权码。
 3. 右键小猫：调整小猫 / 隐藏小猫 / 退出。
 
@@ -88,7 +88,7 @@ A little desktop cat that types along with you. Type, and it taps the same keys 
 
 ### Download (Windows, portable)
 
-1. Get `TYPINCAT_portable_1.1.0.zip` from [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest).
+1. Get `TYPINCAT_portable_1.1.1.zip` from [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest).
 2. Unzip the whole folder and run `TypingWithLove.exe`. No install, no license key.
 3. Right-click the cat for Edit cat / Hide cat / Quit.
 
