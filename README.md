@@ -26,13 +26,16 @@
 一只陪你打字的桌面小猫。你敲键盘，它就用小爪子跟着敲同一个键；你动鼠标，它就去扒拉鼠标。打字太快它会着急甩尾巴，一直不理它就会犯困睡着。摸摸它的头，它会开心到开花。偶尔，它还会在胶带上给你留一句话。
 
 - **捏一只你自己的猫**：脸型、身材、尾巴、毛色、异瞳、花纹，还能直接在猫身上画画
-- **打扮它**：翅膀、光环、蝴蝶结、小帽子、铃铛项圈、眼镜；键盘、纸箱、胶带的颜色也能自己调
+- **也可以是小狗、小鼠**：5 种狗耳朵、鼻子长短、4 种尾巴和小狗花纹；圆耳朵的小鼠
+- **创意工坊**：看看大家捏的猫狗，点一下就能试穿；把自己的作品分享出去，每件都有一个编号，发给朋友一搜就到
+- **打扮它**：翅膀、光环、蝴蝶结、帽子、圣诞帽、生日帽、铃铛项圈、眼镜、工牌、领巾；键盘、纸箱、胶带的颜色也能自己调
+- **直播模式**：一键绿幕，OBS 抠出小猫放进直播间
 - **逗猫模式**：全屏跑出老鼠、小鱼、小蜘蛛，给家里的真猫看
 - **换电脑也带着它**：一键导出成一个文件，在别的电脑上导入
 - **一肚子小心思**：偷瞄、坏笑、摸鱼、受惊炸毛
 - **小猫的来信**：偶尔自己打几句笨笨的话（中 / 日 / 英 / 韩）
 - **接入 Claude Code**：AI 干活时它敲键盘，需要你确认时歪头冒问号
-- **隐私优先**：按键只在本机用来做动画，不保存、不联网
+- **隐私优先**：按键只在本机用来做动画，不保存、不上传；只有打开创意工坊时才联网
 
 ![](images/zh_1.png)
 ![](images/zh_2.png)
@@ -45,9 +48,9 @@
 
 ### 下载和使用（Windows 绿色版）
 
-1. 到 [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest) 下载 `TYPINCAT_portable_1.1.1.zip`。
+1. 到 [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest) 下载 `TYPINCAT_portable_1.3.0.zip`。
 2. 解压整个文件夹，双击 `TypingWithLove.exe`。不用安装，也不需要授权码。
-3. 右键小猫：调整小猫 / 隐藏小猫 / 退出。
+3. 右键小猫：调整外观 / 逗猫模式 / 隐藏 / 退出。
 
 第一次打开时如果出现「Windows 已保护你的电脑」，点「更多信息」→「仍要运行」（绿色版没有代码签名）。想要自动更新，可以从 [Microsoft Store](https://apps.microsoft.com/detail/9PG0GM6TGV7S) 安装。
 
@@ -78,19 +81,22 @@
 A little desktop cat that types along with you. Type, and it taps the same keys with its paws; move the mouse, and it bats at it. Type too fast and it lashes its tail; leave it alone and it dozes off. Pet its head and it blooms with joy. Now and then it even leaves you a little note on its tape.
 
 - **Make your own cat**: face, build, tail, coat, odd eyes, patterns, and paint right on the cat
-- **Dress it up**: wings, a halo, a bow, a top hat, a bell collar, glasses; recolour the keyboard, box and tape
+- **Or a puppy, or a mouse**: 5 kinds of dog ears, muzzle length, 4 tails and puppy coats; round mouse ears
+- **Workshop**: browse cats and dogs other people made and try them on with one click; share your own, each with a number your friends can search for
+- **Dress it up**: wings, a halo, a bow, hats (Santa and birthday too), a bell collar, glasses, a badge, a bandana; recolour the keyboard, box and tape
+- **Streaming mode**: a green screen in one click, so OBS can key the cat into your stream
 - **Mouse play**: mice, fish or little spiders run across the whole screen for your real cat to watch
 - **Take it along**: export your cat to one file and import it on another computer
 - **Full of little moods**: side-eyes, smug grins, slacking off, puffing up when startled
 - **Notes from your cat**: it types silly little messages by itself (English / Chinese / Japanese / Korean)
 - **Works with Claude Code**: it types while the AI works and tilts its head with a "?" when it needs you
-- **Privacy first**: keystrokes are used on your PC only to animate the cat. Nothing is stored, and the app never goes online.
+- **Privacy first**: keystrokes are used on your PC only to animate the cat, never stored or sent. The app goes online only while the Workshop is open.
 
 ### Download (Windows, portable)
 
-1. Get `TYPINCAT_portable_1.1.1.zip` from [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest).
+1. Get `TYPINCAT_portable_1.3.0.zip` from [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest).
 2. Unzip the whole folder and run `TypingWithLove.exe`. No install, no license key.
-3. Right-click the cat for Edit cat / Hide cat / Quit.
+3. Right-click the cat for Edit look / Mouse play / Hide / Quit.
 
 If Windows SmartScreen appears on first launch, click "More info" → "Run anyway" (the portable build is not code-signed). For automatic updates, get it from the [Microsoft Store](https://apps.microsoft.com/detail/9PG0GM6TGV7S).
 
