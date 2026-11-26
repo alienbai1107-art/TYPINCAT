@@ -26,3 +26,8 @@ TYPING WITH LOVE uses the following third-party work. Keep this list in the ship
 - Licence: Pixabay Content License (free for commercial use; may not be sold or redistributed as a
   standalone sound). Cut into `Assets/Resources/KeyClicks/key_01.wav` .. `key_07.wav`.
 - Keep the original download page link with the project.
+
+## LZMA SDK (C#)
+- Source: https://www.7-zip.org/sdk.html (version 26.06), by Igor Pavlov
+- Licence: public domain
+- Files: `Assets/Plugins/LzmaSDK/*.cs` (unmodified). Used to pack the painting of a cat shared in the Workshop.
