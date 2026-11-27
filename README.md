@@ -25,7 +25,8 @@
 
 一只陪你打字的桌面小猫。你敲键盘，它就用小爪子跟着敲同一个键；你动鼠标，它就去扒拉鼠标。打字太快它会着急甩尾巴，一直不理它就会犯困睡着。摸摸它的头，它会开心到开花。偶尔，它还会在胶带上给你留一句话。
 
-- **捏一只你自己的猫**：脸型、身材、尾巴、毛色、异瞳、花纹，还能直接在猫身上画画
+- **捏一只你自己的猫**：脸型、身材、尾巴、毛色、异瞳、花纹，还能直接在猫身上画画（支持数位板笔压、喷枪、吸色）
+- **绘画板模式**：画画的人可以把桌上的键盘换成绘画板，小猫握着笔陪你画
 - **也可以是小狗、小鼠**：5 种狗耳朵、鼻子长短、4 种尾巴和小狗花纹；圆耳朵的小鼠
 - **创意工坊**：看看大家捏的猫狗，点一下就能试穿；把自己的作品分享出去，每件都有一个编号，发给朋友一搜就到
 - **打扮它**：翅膀、光环、蝴蝶结、帽子、圣诞帽、生日帽、铃铛项圈、眼镜、工牌、领巾；键盘、纸箱、胶带的颜色也能自己调
@@ -48,7 +49,7 @@
 
 ### 下载和使用（Windows 绿色版）
 
-1. 到 [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest) 下载 `TYPINCAT_portable_1.3.0.zip`。
+1. 到 [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest) 下载 `TYPINCAT_portable_1.3.1.zip`。
 2. 解压整个文件夹，双击 `TypingWithLove.exe`。不用安装，也不需要授权码。
 3. 右键小猫：调整外观 / 逗猫模式 / 隐藏 / 退出。
 
@@ -80,7 +81,8 @@
 
 A little desktop cat that types along with you. Type, and it taps the same keys with its paws; move the mouse, and it bats at it. Type too fast and it lashes its tail; leave it alone and it dozes off. Pet its head and it blooms with joy. Now and then it even leaves you a little note on its tape.
 
-- **Make your own cat**: face, build, tail, coat, odd eyes, patterns, and paint right on the cat
+- **Make your own cat**: face, build, tail, coat, odd eyes, patterns, and paint right on the cat (pen pressure, airbrush, eyedropper)
+- **Drawing tablet desk**: swap the keyboard for a drawing tablet and the cat draws along with a pen
 - **Or a puppy, or a mouse**: 5 kinds of dog ears, muzzle length, 4 tails and puppy coats; round mouse ears
 - **Workshop**: browse cats and dogs other people made and try them on with one click; share your own, each with a number your friends can search for
 - **Dress it up**: wings, a halo, a bow, hats (Santa and birthday too), a bell collar, glasses, a badge, a bandana; recolour the keyboard, box and tape
@@ -94,7 +96,7 @@ A little desktop cat that types along with you. Type, and it taps the same keys 
 
 ### Download (Windows, portable)
 
-1. Get `TYPINCAT_portable_1.3.0.zip` from [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest).
+1. Get `TYPINCAT_portable_1.3.1.zip` from [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest).
 2. Unzip the whole folder and run `TypingWithLove.exe`. No install, no license key.
 3. Right-click the cat for Edit look / Mouse play / Hide / Quit.
 
