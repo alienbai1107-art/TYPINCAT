@@ -5,18 +5,18 @@ TYPING WITH LOVE uses the following third-party work. Keep this list in the ship
 
 ## UniWindowController
 - Source: https://github.com/kirurobo/UniWindowController
-- Licence: MIT
+- Licence: MIT, Copyright (c) 2020 Kirurobo. Full text: [`licenses/MIT_UniWindowController.txt`](licenses/MIT_UniWindowController.txt)
 - Used for the transparent, always-on-top, click-through window.
 
 ## Material Icons (Round)
 - Source: https://github.com/google/material-design-icons
-- Licence: Apache License 2.0 (full text: `Assets/ThirdParty/MaterialIcons/LICENSE.txt`)
+- Licence: Apache License 2.0. Full text: [`licenses/Apache-2.0_MaterialIcons.txt`](licenses/Apache-2.0_MaterialIcons.txt)
 - File: `Assets/Resources/Fonts/MaterialIconsRound.otf` (unmodified)
 - Used for the icons in the cat editor.
 
 ## Painting technique: IRCSS/TexturePaint
 - Source: https://github.com/IRCSS/TexturePaint
-- Licence: MIT, Copyright (c) Shahriar Shahrabi
+- Licence: MIT, Copyright 2019 Shahriar Shahrabi. Full text: [`licenses/MIT_TexturePaint.txt`](licenses/MIT_TexturePaint.txt)
 - The brush shader (`Assets/Resources/TWLPaintBrush.shader`) follows its approach of drawing a mesh
   into its own texture space with a brush placed on the model.
 
