@@ -19,6 +19,8 @@
   <a href="https://ah-studio.pages.dev/typincat/">隐私政策 Privacy</a>
 </p>
 
+![敲敲猫 1.4.0 新版本：两小只，一起上班 / New in 1.4.0: two cats at work](images/new_1.4.0.jpg)
+
 ![TYPINCAT](images/banner.png)
 
 ## 中文
