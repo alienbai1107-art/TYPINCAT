@@ -27,8 +27,10 @@
 
 - **捏一只你自己的猫**：脸型、身材、尾巴、毛色、异瞳、花纹，还能直接在猫身上画画（支持数位板笔压、喷枪、吸色）
 - **绘画板模式**：画画的人可以把桌上的键盘换成绘画板，小猫握着笔陪你画
+- **两小只一起上班**（Windows 1.4.0）：两只坐在同一个纸箱上，各管半边键盘，停手时会贴贴
 - **也可以是小狗、小鼠**：5 种狗耳朵、鼻子长短、4 种尾巴和小狗花纹；圆耳朵的小鼠
 - **创意工坊**：看看大家捏的猫狗，点一下就能试穿；把自己的作品分享出去，每件都有一个编号，发给朋友一搜就到
+- **自由饰品**（Windows 1.4.0）：自己画小图案贴在小猫身上
 - **打扮它**：翅膀、光环、蝴蝶结、帽子、圣诞帽、生日帽、铃铛项圈、眼镜、工牌、领巾；键盘、纸箱、胶带的颜色也能自己调
 - **直播模式**：一键绿幕，OBS 抠出小猫放进直播间
 - **逗猫模式**：全屏跑出老鼠、小鱼、小蜘蛛，给家里的真猫看
@@ -49,8 +51,8 @@
 
 ### 下载和使用（Windows 绿色版）
 
-1. 到 [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest) 下载 `TYPINCAT_portable_1.3.1.zip`。
-2. 解压整个文件夹，双击 `TypingWithLove.exe`。不用安装，也不需要授权码。
+1. 到 [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest) 下载 `TYPINCAT_portable_1.4.0.zip`。
+2. 解压整个文件夹，双击 `TypingWithLove.exe`。不用安装，也不需要授权码。第一次打开时桌面上会自动出现「敲敲猫」图标，以后双击它就行。
 3. 右键小猫：调整外观 / 逗猫模式 / 隐藏 / 退出。
 
 第一次打开时如果出现「Windows 已保护你的电脑」，点「更多信息」→「仍要运行」（绿色版没有代码签名）。想要自动更新，可以从 [Microsoft Store](https://apps.microsoft.com/detail/9PG0GM6TGV7S) 安装。
@@ -83,8 +85,10 @@ A little desktop cat that types along with you. Type, and it taps the same keys 
 
 - **Make your own cat**: face, build, tail, coat, odd eyes, patterns, and paint right on the cat (pen pressure, airbrush, eyedropper)
 - **Drawing tablet desk**: swap the keyboard for a drawing tablet and the cat draws along with a pen
+- **Two cats at work** (Windows 1.4.0): two of your cats share one box, each typing on its half of the keyboard, and snuggle when you pause
 - **Or a puppy, or a mouse**: 5 kinds of dog ears, muzzle length, 4 tails and puppy coats; round mouse ears
 - **Workshop**: browse cats and dogs other people made and try them on with one click; share your own, each with a number your friends can search for
+- **Your own stickers** (Windows 1.4.0): draw little decorations and put them anywhere on the cat
 - **Dress it up**: wings, a halo, a bow, hats (Santa and birthday too), a bell collar, glasses, a badge, a bandana; recolour the keyboard, box and tape
 - **Streaming mode**: a green screen in one click, so OBS can key the cat into your stream
 - **Mouse play**: mice, fish or little spiders run across the whole screen for your real cat to watch
@@ -96,8 +100,8 @@ A little desktop cat that types along with you. Type, and it taps the same keys 
 
 ### Download (Windows, portable)
 
-1. Get `TYPINCAT_portable_1.3.1.zip` from [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest).
-2. Unzip the whole folder and run `TypingWithLove.exe`. No install, no license key.
+1. Get `TYPINCAT_portable_1.4.0.zip` from [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/latest).
+2. Unzip the whole folder and run `TypingWithLove.exe`. No install, no license key. The first time, a "敲敲猫" shortcut is put on your desktop.
 3. Right-click the cat for Edit look / Mouse play / Hide / Quit.
 
 If Windows SmartScreen appears on first launch, click "More info" → "Run anyway" (the portable build is not code-signed). For automatic updates, get it from the [Microsoft Store](https://apps.microsoft.com/detail/9PG0GM6TGV7S).
