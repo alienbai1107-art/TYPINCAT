@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/alienbai1107-art/TYPINCAT/releases/latest"><b>⬇ 下载绿色版 Download (portable)</b></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/alienbai1107-art/TYPINCAT/releases/tag/v1.3.1"><b>Mac（测试版 beta）</b></a>
+  <a href="https://github.com/alienbai1107-art/TYPINCAT/releases/tag/v1.4.0"><b>Mac（测试版 beta）</b></a>
   &nbsp;·&nbsp;
   <a href="https://apps.microsoft.com/detail/9PG0GM6TGV7S">Microsoft Store</a>
   &nbsp;·&nbsp;
@@ -63,7 +63,7 @@
 
 > Mac 版是测试版：还没有在真机上充分测试过，遇到问题欢迎在 [Issues](https://github.com/alienbai1107-art/TYPINCAT/issues) 反馈。
 
-1. 到 [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/tag/v1.3.1) 下载 `TYPINCAT_mac_1.3.1-beta.zip`，解压后把 `TypingWithLove.app` 拖进「应用程序」文件夹。
+1. 到 [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/tag/v1.4.0) 下载 `TYPINCAT_mac_1.4.0-beta.zip`，解压后把 `TypingWithLove.app` 拖进「应用程序」文件夹。
 2. 第一次打开：在 app 上**右键 →「打开」→ 再点「打开」**（Mac 版没有苹果签名，直接双击会被拦下）。
    如果提示「已损坏，无法打开」，打开「终端」执行下面这行，再右键打开：
    ```
@@ -112,7 +112,7 @@ Requires Windows 10 1809 or later, 64-bit.
 
 > The Mac version is a beta: it has not been fully tested on real Macs yet. Please report problems in [Issues](https://github.com/alienbai1107-art/TYPINCAT/issues).
 
-1. Get `TYPINCAT_mac_1.3.1-beta.zip` from [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/tag/v1.3.1), unzip it and drag `TypingWithLove.app` into Applications.
+1. Get `TYPINCAT_mac_1.4.0-beta.zip` from [Releases](https://github.com/alienbai1107-art/TYPINCAT/releases/tag/v1.4.0), unzip it and drag `TypingWithLove.app` into Applications.
 2. First launch: **right-click the app → Open → Open** (it is not signed by Apple, so a double-click is blocked).
    If macOS says the app "is damaged and can't be opened", run this in Terminal, then right-click → Open again:
    ```
