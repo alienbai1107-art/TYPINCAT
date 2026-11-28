@@ -43,3 +43,10 @@ TYPINCAT (敲敲猫) includes the following third-party work. The full licence t
 - Licence: Pixabay Content License (https://pixabay.com/service/license-summary/)
 - The first ring was cut out and used in the phone-call animation. Not offered for separate
   download or resale.
+
+## Bubble pop sound
+- Source: Pixabay — "Bubble Pop 04" by Universfield
+  (https://pixabay.com/users/universfield-28281460/)
+- Licence: Pixabay Content License (https://pixabay.com/service/license-summary/)
+- Trimmed and used when the cat's sleeping bubble pops. Not offered for separate
+  download or resale.
